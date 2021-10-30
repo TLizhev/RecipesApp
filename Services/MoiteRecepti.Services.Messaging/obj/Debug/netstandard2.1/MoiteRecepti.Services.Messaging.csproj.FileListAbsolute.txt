@@ -1,0 +1,10 @@
+C:\Users\fostata\Source\Repos\RecipeApp\Services\MoiteRecepti.Services.Messaging\bin\Debug\netstandard2.1\MoiteRecepti.Services.Messaging.deps.json
+C:\Users\fostata\Source\Repos\RecipeApp\Services\MoiteRecepti.Services.Messaging\bin\Debug\netstandard2.1\MoiteRecepti.Services.Messaging.dll
+C:\Users\fostata\Source\Repos\RecipeApp\Services\MoiteRecepti.Services.Messaging\bin\Debug\netstandard2.1\MoiteRecepti.Services.Messaging.pdb
+C:\Users\fostata\Source\Repos\RecipeApp\Services\MoiteRecepti.Services.Messaging\obj\Debug\netstandard2.1\MoiteRecepti.Services.Messaging.csproj.AssemblyReference.cache
+C:\Users\fostata\Source\Repos\RecipeApp\Services\MoiteRecepti.Services.Messaging\obj\Debug\netstandard2.1\MoiteRecepti.Services.Messaging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fostata\Source\Repos\RecipeApp\Services\MoiteRecepti.Services.Messaging\obj\Debug\netstandard2.1\MoiteRecepti.Services.Messaging.AssemblyInfoInputs.cache
+C:\Users\fostata\Source\Repos\RecipeApp\Services\MoiteRecepti.Services.Messaging\obj\Debug\netstandard2.1\MoiteRecepti.Services.Messaging.AssemblyInfo.cs
+C:\Users\fostata\Source\Repos\RecipeApp\Services\MoiteRecepti.Services.Messaging\obj\Debug\netstandard2.1\MoiteRecepti.Services.Messaging.csproj.CoreCompileInputs.cache
+C:\Users\fostata\Source\Repos\RecipeApp\Services\MoiteRecepti.Services.Messaging\obj\Debug\netstandard2.1\MoiteRecepti.Services.Messaging.dll
+C:\Users\fostata\Source\Repos\RecipeApp\Services\MoiteRecepti.Services.Messaging\obj\Debug\netstandard2.1\MoiteRecepti.Services.Messaging.pdb

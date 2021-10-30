@@ -1,0 +1,10 @@
+C:\Users\fostata\Source\Repos\RecipeApp\Data\MoiteRecepti.Data.Common\bin\Debug\netstandard2.1\MoiteRecepti.Data.Common.deps.json
+C:\Users\fostata\Source\Repos\RecipeApp\Data\MoiteRecepti.Data.Common\bin\Debug\netstandard2.1\MoiteRecepti.Data.Common.dll
+C:\Users\fostata\Source\Repos\RecipeApp\Data\MoiteRecepti.Data.Common\bin\Debug\netstandard2.1\MoiteRecepti.Data.Common.pdb
+C:\Users\fostata\Source\Repos\RecipeApp\Data\MoiteRecepti.Data.Common\obj\Debug\netstandard2.1\MoiteRecepti.Data.Common.csproj.AssemblyReference.cache
+C:\Users\fostata\Source\Repos\RecipeApp\Data\MoiteRecepti.Data.Common\obj\Debug\netstandard2.1\MoiteRecepti.Data.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fostata\Source\Repos\RecipeApp\Data\MoiteRecepti.Data.Common\obj\Debug\netstandard2.1\MoiteRecepti.Data.Common.AssemblyInfoInputs.cache
+C:\Users\fostata\Source\Repos\RecipeApp\Data\MoiteRecepti.Data.Common\obj\Debug\netstandard2.1\MoiteRecepti.Data.Common.AssemblyInfo.cs
+C:\Users\fostata\Source\Repos\RecipeApp\Data\MoiteRecepti.Data.Common\obj\Debug\netstandard2.1\MoiteRecepti.Data.Common.csproj.CoreCompileInputs.cache
+C:\Users\fostata\Source\Repos\RecipeApp\Data\MoiteRecepti.Data.Common\obj\Debug\netstandard2.1\MoiteRecepti.Data.Common.dll
+C:\Users\fostata\Source\Repos\RecipeApp\Data\MoiteRecepti.Data.Common\obj\Debug\netstandard2.1\MoiteRecepti.Data.Common.pdb

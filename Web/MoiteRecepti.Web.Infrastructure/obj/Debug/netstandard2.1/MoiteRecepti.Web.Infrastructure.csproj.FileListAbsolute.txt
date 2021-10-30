@@ -1,0 +1,9 @@
+C:\Users\fostata\Source\Repos\RecipeApp\Web\MoiteRecepti.Web.Infrastructure\bin\Debug\netstandard2.1\MoiteRecepti.Web.Infrastructure.deps.json
+C:\Users\fostata\Source\Repos\RecipeApp\Web\MoiteRecepti.Web.Infrastructure\bin\Debug\netstandard2.1\MoiteRecepti.Web.Infrastructure.dll
+C:\Users\fostata\Source\Repos\RecipeApp\Web\MoiteRecepti.Web.Infrastructure\bin\Debug\netstandard2.1\MoiteRecepti.Web.Infrastructure.pdb
+C:\Users\fostata\Source\Repos\RecipeApp\Web\MoiteRecepti.Web.Infrastructure\obj\Debug\netstandard2.1\MoiteRecepti.Web.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fostata\Source\Repos\RecipeApp\Web\MoiteRecepti.Web.Infrastructure\obj\Debug\netstandard2.1\MoiteRecepti.Web.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\fostata\Source\Repos\RecipeApp\Web\MoiteRecepti.Web.Infrastructure\obj\Debug\netstandard2.1\MoiteRecepti.Web.Infrastructure.AssemblyInfo.cs
+C:\Users\fostata\Source\Repos\RecipeApp\Web\MoiteRecepti.Web.Infrastructure\obj\Debug\netstandard2.1\MoiteRecepti.Web.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\fostata\Source\Repos\RecipeApp\Web\MoiteRecepti.Web.Infrastructure\obj\Debug\netstandard2.1\MoiteRecepti.Web.Infrastructure.dll
+C:\Users\fostata\Source\Repos\RecipeApp\Web\MoiteRecepti.Web.Infrastructure\obj\Debug\netstandard2.1\MoiteRecepti.Web.Infrastructure.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JRd7e4yjbW9tFDPHVsnxVFsqE/FpAbNx11UH3p0QaUeRUxtMueUaiXj4c9xfiQ0Xs1n36Oa6XAKEZkmxO54hRA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fostata\\source\\repos\\RecipeApp\\MoiteRecepti.Common\\MoiteRecepti.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fostata\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.205\\stylecop.analyzers.1.2.0-beta.205.nupkg.sha512",
+    "C:\\Users\\fostata\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.205\\stylecop.analyzers.unstable.1.2.0.205.nupkg.sha512"
+  ],
+  "logs": []
+}
